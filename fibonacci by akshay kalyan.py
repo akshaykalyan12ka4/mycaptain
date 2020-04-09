@@ -3,7 +3,6 @@
 
 # In[8]:
 
-
 n=int(input('enter a number upto which you want fibonacci sequence '))
 i=0
 j=1
@@ -17,22 +16,3 @@ while i+j<=n:
     j=k
     
     print(i+j)
-
-
-# In[ ]:
-
-
-
-
-
-# In[4]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
